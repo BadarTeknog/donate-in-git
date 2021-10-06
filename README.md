@@ -26,7 +26,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
 
 
-- ## Beli beberapa modul di rekomendasikan Badar Teknog
+# Beli beberapa modul di rekomendasikan Badar Teknog
 
 -
 [![](https://cf.shopee.co.id/file/4e3b4c472d65ed54224bddadbc733a57)](https://shp.ee/pvkrkpb?smtt=0.0.9)
