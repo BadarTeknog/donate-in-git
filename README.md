@@ -45,7 +45,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 ## LCD 1602 With I2C
 
-[![](https://cf.shopee.co.id/file/9e5100b5df2d002b631911de61a947dc)](https://shp.ee/n72ba5b?smtt=0.0.9)
+[![](https://cf.shopee.co.id/file/40f05f76ca656d320eaa25e74bc51d22)](https://shp.ee/n72ba5b?smtt=0.0.9)
 
 
 
