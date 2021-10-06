@@ -35,6 +35,17 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 ## RTC DS3231
 [![](https://cf.shopee.co.id/file/9e5100b5df2d002b631911de61a947dc)](https://shp.ee/aqnjprb?smtt=0.0.9)
 
+## RTC DS3231
+
+[![](https://cf.shopee.co.id/file/9e5100b5df2d002b631911de61a947dc)](https://shp.ee/aqnjprb?smtt=0.0.9)
+
+## RTC DS3231
+
+[![](https://cf.shopee.co.id/file/9e5100b5df2d002b631911de61a947dc)](https://shp.ee/aqnjprb?smtt=0.0.9)
+
+## LCD 1602 With I2C
+
+[![](https://cf.shopee.co.id/file/9e5100b5df2d002b631911de61a947dc)](https://shp.ee/n72ba5b?smtt=0.0.9)
 
 
 
