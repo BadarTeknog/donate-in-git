@@ -27,5 +27,5 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 
 - ## Beli beberapa modul di rekomendasikan Badar Teknog
-[![](https://img.youtube.com/vi/vZRH7Ix6gaE/0.jpg)](https://youtu.be/vZRH7Ix6gaE
+[![](https://img.youtube.com/vi/vZRH7Ix6gaE/0.jpg)](https://shp.ee/pvkrkpb?smtt=0.0.9
 )
